@@ -37,7 +37,7 @@
     "request": "^2.81.0",
     "sproxydclient": "scality/sproxydclient#z/1.0",
     "sql-where-parser": "~2.2.1",
-    "utapi": "scality/utapi#z/1.0",
+    "utapi": "scality/utapi#ft/ZENKO-386-utapi-service-accounts",
     "utf8": "~2.1.1",
     "uuid": "^3.0.1",
     "vaultclient": "scality/vaultclient#z/1.0",
